@@ -1,9 +1,6 @@
 # Barbara (Rella) Csankova
 ## Software Developer
 
-📞 647-917-9929 | 📧 barbara.cs@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/barbara-csankova/) | [GitHub](https://github.com/rellagant)
-
 ## Profile
 
 A detail-oriented and constant learner with a proven ability to build and deploy full-stack applications. Driven by a love for solving complex problems with clean, efficient code and taking ownership of projects from conception to launch. Eager to contribute to and most importantly to learn. Inadvertently good at overseeing product.
