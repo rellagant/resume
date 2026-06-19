@@ -3,19 +3,23 @@
 
 ## Profile
 
-A detail-oriented and constant learner with a proven ability to build and deploy full-stack applications. Driven by a love for solving complex problems with clean, efficient code and taking ownership of projects from conception to launch. Eager to contribute to and most importantly to learn. Inadvertently good at overseeing product.
+Detail-oriented full-stack developer with experience building and deploying web applications from concept to launch. Strong focus on React, TypeScript, and Node.js, with a background in fintech and reusable component libraries. Fast learner with a track record of owning products end-to-end and delivering clean, maintainable code.
 
 ## Skills
 
-**Languages:** JavaScript, TypeScript, HTML5, CSS, SQL, Ruby
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL, Ruby
 
-**Frameworks & Libraries:** React, Preact, Node.js, Express.js
+**Frameworks & Libraries:** React, Preact, Redux, Node.js, Express.js
 
-**Styling:** Bulma, Tailwind CSS, Sass, CSS Grid
+**Styling:** Sass/SCSS, Tailwind CSS, Bulma, CSS Grid, Responsive + Mobile-First Design
 
-**State Management:** Context API, Custom Hooks
+**State Management:** Redux, Context API, Custom Hooks, useReducer
 
-**Tools & DevOps:** Git, MySQL, Knex.js, Postman, Heroku, Netlify, CI/CD, Claude Code, Cursor
+**Performance:** Lazy Loading, Code Splitting, Memoization, Image Optimization
+
+**Tools & DevOps:** Git, npm/Yarn, Webpack, MySQL, Knex.js, Postman, Heroku, Netlify, CI/CD
+
+**Accessibility:** WCAG, AODA Compliance, Semantic HTML, ARIA
 
 **Methodologies & Management:** Agile, SDLC, Jira, Asana, Figma, Wireframing, Project Management
 
@@ -24,33 +28,34 @@ A detail-oriented and constant learner with a proven ability to build and deploy
 ### Junior Software Developer
 **TodaQ Micro** | March 2025 – Present | Toronto, ON
 
-- Develop and maintain a reusable component library/package for a proprietary fintech application, enhancing UI consistency and accelerating front-end development
+- Develop and maintain a reusable Preact component library published as an npm package for a proprietary fintech application, enhancing UI consistency and accelerating front-end development
 - Author comprehensive technical documentation to streamline onboarding and knowledge sharing
 - Contribute to the initial build and feature implementation of a content platform using Preact and Node.js within an Agile workflow
+- Write and maintain unit and integration tests to ensure component reliability and code quality
 
-### Software Engineer
+### Software Developer
 **Shrinefinder** (BrainStation Capstone) | June 2024
 
-- Led front-end development of a scalable React application, architecting the component structure and state management to deliver an intuitive user experience
+- Led front-end development of a scalable, responsive React application, architecting the component structure and state management to deliver an intuitive user experience
 - Engineered a full-stack solution with a Node.js and Express.js API, ensuring robust data handling and seamless integration between front-end and back-end services
 - Implemented deployment strategies and configuration for a smooth integration of application components
 
-### Software Engineer – Backend
+### Software Developer - Backend
 **GoalSaver** (BrainStation Hackathon) | June 2024
 
 - Collaborated in a fast-paced team to build a financial application from the ground up in a 48-hour sprint
-- Designed and implemented a custom API with Node.js and Express to support core application functionality, demonstrating the ability to thrive in a results-driven environment
+- Designed and implemented custom API with Node.js / Express to support core application functionality
 
 ### Project/Content Manager
-**Any Key Press Inc.** | Sept 2021 – Mar 2024 | Toronto, ON
+**Any Key Press Inc.** | September 2021 – March 2024 | Toronto, ON
 
 - Led project scoping and task assignment for a team, accelerating project timelines and boosting productivity through effective Agile methodologies
 - Drove a 90% annual gross revenue increase by leveraging user feedback and analytics to craft highly engaging user experiences, demonstrating a deep commitment to user needs
-- Led the entire product launch lifecycle, from wireframing and design to execution and community engagement
+- Led entire product launch lifecycle, from wireframing and design to execution and community engagement
 - Utilized Customer Relationship Management (CRM) to attain Etsy Star Seller status, instilling trust and credibility, increasing conversion by 2%
 
 ### Content Manager
-**West Coast Kids Inc.** | Feb 2020 – Sept 2021 | Toronto, ON
+**West Coast Kids Inc.** | February 2020 – September 2021 | Toronto, ON
 
 - Created and deployed social media campaigns that led to 12.3% growth retention and 100,000 new followers over a year-long period on Instagram
 - Executed end-to-end for all scopes of product launches and events, ensuring collaborative success across marketing team
